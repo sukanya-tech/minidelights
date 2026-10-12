@@ -1,0 +1,1 @@
+"""add new product to the menu card"""
